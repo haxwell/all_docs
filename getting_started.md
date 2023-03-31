@@ -17,17 +17,21 @@
 5. Chrome or Firefox web browser
 6. IntelliJ
 
-It will help for you to install version managers for Java and NodeJS. Recommended are SDKMAN for Java, and Node Version Manager (nvm) for Node.
+It will help for you to install version managers for Java and NodeJS. Recommended are SDKMAN for Java, and Node Version Manager (nvm) for Node. Strongly encouraged, but not required.
 
 ## The Code:
 
-You will use github.com to share code with the rest of the team. You will need to fork the following repos, and clone your forks to your computer locally:
+You will use github.com to share code with the rest of the team. You will need to fork our main source code repositories. In these forks, you will do your work, and then submit pull requests to get your work included in the main repos. 
+
+NOTE! When you fork on Github, you will see an option to *Copy the `develop` branch only*. You MUST clear the check mark from this option, so that it is unselected. This will include our other important branches in your fork. 
+
+Fork the following repos, and clone your forks to your computer locally:
 
 1. https://github.com/savvato-software/tribe-app-backend
 2. https://github.com/savvato-software/tribe-app-frontend
 3. https://github.com/savvato-software/savvato-javascript-services
 
-Remember to FORK the above repos, otherwise you won't be able to submit your code changes.
+Remember to FORK the above repos (do not just clone them), otherwise you won't be able to submit your code changes.
 
 ## Setting up the database:
 
