@@ -21,7 +21,7 @@ It will help for you to install version managers for Java and NodeJS. Recommende
 
 ## The Code:
 
-You will use github.com to share code with the rest of the team. You will need to fork our main source code repositories. In these forks, you will do your work, and then submit pull requests to get your work included in the main repos. 
+You will use github.com to share code with the rest of the team. You will need to fork our main source code repositories. In these forks, you will do your work, and then submit [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to get your work included in the main repos. 
 
 NOTE! When you fork on Github, you will see an option to *Copy the `develop` branch only*. You MUST clear the check mark from this option, so that it is unselected. This will include our other important branches in your fork. 
 
